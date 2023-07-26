@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 100;
+    justify-content: space-between;
+  }
+  
+  .flex-box {
+    display: flex;
+    height: 200px;
+    width: 200px;
+  }
+  
+  .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    font-size: 24px;
+    color: white;
+  }
+  
+  .rojo {
+    background-color: red;
+  }
+  
+  .azul {
+    background-color: blue;
+  }
+  
+  .verde {
+    background-color: green;
+  }  
